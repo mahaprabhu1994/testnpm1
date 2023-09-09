@@ -1,0 +1,19 @@
+{
+  "name": "maha-ui",
+  "version": "0.0.5",
+  "description": "testnpm for the first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahaprabhu1994/testnpm1.git"
+  },
+  "author": "mahaprabhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahaprabhu1994/testnpm1/issues"
+  },
+  "homepage": "https://github.com/mahaprabhu1994/testnpm1#readme"
+}
